@@ -1,6 +1,6 @@
 ### *Ciao*, I'm Prashanth Reddy Putta 👋
 
-- 🔭 I’m currently working on a projrct: Multi-temporal analysis using GEE.
+- 🔭 I’m currently working on a project: Multi-temporal analysis using GEE.
 - 🌱 I’m currently learning Python.
 - 👯 I'm looking to collaborate on research projects.
 - 💬 Ask me about anything, I'm happy to help.
